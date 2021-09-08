@@ -1,0 +1,2 @@
+This is my first file in Git
+I wanna edit somemore on this file
